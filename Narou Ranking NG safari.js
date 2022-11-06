@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Narou Ranking NG safari
-// @namespace    https://github.com/rugafo/Narou-Ranking-NG-safari-/new/main
+// @namespace    https://github.com/rugafo/Narou-Ranking-NG-safari/new/main
 // @version      1.2
 // @description  小説家になろう（厳密には小説を読もう）ランキングでのNGフィルタリング機能を提供
 // @author       rugafo
