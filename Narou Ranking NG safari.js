@@ -13,10 +13,6 @@
 // @grant        GM_setValue
 // ==/UserScript==
 
-
-/*
-更新履歴
-
 /*
 ユーザースクリプトの説明
     注意！このスクリプトはJavaScript練習を兼ねたものです！
